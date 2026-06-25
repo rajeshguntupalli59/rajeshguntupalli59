@@ -1,36 +1,37 @@
 <div align="center">
 
-# Hi, I'm Raj 👋
+# Hi, I'm Raj
 
-### Database Administrator & Engineer — PostgreSQL & SQL Server specialist
+### Database Administrator & Engineer -- PostgreSQL & SQL Server specialist
 
 I build the tools DBAs actually need: query performance workbenches, schema documentation, and self-hosted database tooling. I also ship full-stack products end to end when a project calls for it.
 
 [![Email](https://img.shields.io/badge/Email-rajeshguntupalli59%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajeshguntupalli59@gmail.com)
 
 </div>
+
 ---
 
-## 🛠️ Database Tooling
+## Database Tooling
 
-These are my core focus — self-hosted tools for DBAs working with PostgreSQL and SQL Server:
+These are my core focus -- self-hosted tools for DBAs working with PostgreSQL and SQL Server:
 
 | Project | What it does |
 |---|---|
-| [**query-optimizer**](https://github.com/rajeshguntupalli59/query-optimizer) | Self-hosted SQL performance workbench — EXPLAIN visualizer, index advisor, slow query dashboard |
-| [**DB-HUB**](https://github.com/rajeshguntupalli59/DB-HUB) | Unified DBA platform — backend, frontend, and marketing site |
+| [**query-optimizer**](https://github.com/rajeshguntupalli59/query-optimizer) | Self-hosted SQL performance workbench -- EXPLAIN visualizer, index advisor, slow query dashboard |
+| [**DB-HUB**](https://github.com/rajeshguntupalli59/DB-HUB) | Unified DBA platform -- backend, frontend, and marketing site |
 | [**db-documenter**](https://github.com/rajeshguntupalli59/db-documenter) | Self-hosted database schema documentation tool for PostgreSQL and SQL Server |
 
-## 🚀 Other Products
+## Other Products
 
 | Project | What it does |
 |---|---|
-| [**Vitaliq**](https://github.com/rajeshguntupalli59/vitaliq) | India's AI health coach — food scanning, coaching, family tracking |
+| [**Vitaliq**](https://github.com/rajeshguntupalli59/vitaliq) | India's AI health coach -- food scanning, coaching, family tracking |
 | [**Kruthik Farm suite**](https://github.com/rajeshguntupalli59/Farm-APP) | Booking platform for farm visits and animal experiences (app, API, web dashboard) |
 | [**LocalsIndia**](https://github.com/rajeshguntupalli59/localsindia) | Local business directory and events platform |
 | [**Autonomous-AI-video**](https://github.com/rajeshguntupalli59/Autonomous-AI-video) | Autonomous AI video + marketing platform for Indian creators |
 
-## 💻 Stack
+## Stack
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
@@ -40,7 +41,7 @@ These are my core focus — self-hosted tools for DBAs working with PostgreSQL a
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -50,7 +51,5 @@ These are my core focus — self-hosted tools for DBAs working with PostgreSQL a
 </div>
 
 ---
-<div align="center">
-<sub>📧 rajeshguntupalli59@gmail.com · Open an issue on any repo if you spot something stale.</sub>sub>
-</div>div>
-</sub>
+
+*rajeshguntupalli59@gmail.com -- Open an issue on any repo if you spot something stale.*
