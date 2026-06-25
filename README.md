@@ -15,13 +15,13 @@ I specialize in Microsoft SQL Server -- diagnosing performance problems, designi
 
 ## Database Tooling
 
-These are my core focus -- self-hosted tools for SQL Server DBAs:
+These are my core focus -- self-hosted database tools, built for DBAs across PostgreSQL, SQL Server, and MySQL:
 
 | Project | What it does |
 |---|---|
-| [**query-optimizer**](https://github.com/rajeshguntupalli59/query-optimizer) | Self-hosted SQL Server performance workbench -- execution plan visualizer, index advisor, slow query dashboard |
+| [**query-optimizer**](https://github.com/rajeshguntupalli59/query-optimizer) | Self-hosted SQL performance workbench for PostgreSQL, SQL Server & MySQL -- EXPLAIN visualizer, index advisor, slow query dashboard |
 | [**DB-HUB**](https://github.com/rajeshguntupalli59/DB-HUB) | Unified DBA platform -- backend, frontend, and marketing site |
-| [**db-documenter**](https://github.com/rajeshguntupalli59/db-documenter) | Self-hosted database schema documentation tool for SQL Server |
+| [**db-documenter**](https://github.com/rajeshguntupalli59/db-documenter) | Self-hosted database schema documentation tool for PostgreSQL, SQL Server, and MySQL |
 
 ## Other Products
 
