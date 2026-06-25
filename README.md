@@ -2,11 +2,12 @@
 
 # Hi, I'm Raj
 
-### Database Administrator & Engineer -- PostgreSQL & SQL Server specialist
+### SQL Server Database Administrator & Tool Builder
 
-I build the tools DBAs actually need: query performance workbenches, schema documentation, and self-hosted database tooling. I also ship full-stack products end to end when a project calls for it.
+I specialize in Microsoft SQL Server -- diagnosing performance problems, designing indexing strategies, and building self-hosted tools for DBAs who want real answers without a cloud dependency or a subscription. I also ship full-stack products end to end when a project calls for it.
 
 [![Email](https://img.shields.io/badge/Email-rajeshguntupalli59%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajeshguntupalli59@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-rajesh-guntupalli-4916ab192)
 
 </div>
 
@@ -14,13 +15,13 @@ I build the tools DBAs actually need: query performance workbenches, schema docu
 
 ## Database Tooling
 
-These are my core focus -- self-hosted tools for DBAs working with PostgreSQL and SQL Server:
+These are my core focus -- self-hosted tools for SQL Server DBAs:
 
 | Project | What it does |
 |---|---|
-| [**query-optimizer**](https://github.com/rajeshguntupalli59/query-optimizer) | Self-hosted SQL performance workbench -- EXPLAIN visualizer, index advisor, slow query dashboard |
+| [**query-optimizer**](https://github.com/rajeshguntupalli59/query-optimizer) | Self-hosted SQL Server performance workbench -- execution plan visualizer, index advisor, slow query dashboard |
 | [**DB-HUB**](https://github.com/rajeshguntupalli59/DB-HUB) | Unified DBA platform -- backend, frontend, and marketing site |
-| [**db-documenter**](https://github.com/rajeshguntupalli59/db-documenter) | Self-hosted database schema documentation tool for PostgreSQL and SQL Server |
+| [**db-documenter**](https://github.com/rajeshguntupalli59/db-documenter) | Self-hosted database schema documentation tool for SQL Server |
 
 ## Other Products
 
@@ -31,10 +32,19 @@ These are my core focus -- self-hosted tools for DBAs working with PostgreSQL an
 | [**LocalsIndia**](https://github.com/rajeshguntupalli59/localsindia) | Local business directory and events platform |
 | [**Autonomous-AI-video**](https://github.com/rajeshguntupalli59/Autonomous-AI-video) | Autonomous AI video + marketing platform for Indian creators |
 
+## Focus
+
+- T-SQL query tuning & execution plan analysis
+- Index strategy design
+- Always On / high-availability architecture
+- Backup & disaster recovery
+- Schema documentation (generated, not hand-written)
+- AI-assisted DBA workflows
+
 ## Stack
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
