@@ -43,17 +43,17 @@ Everything I build is **self-hosted by design**. Your schema, your queries, your
 
 ## 📚 Books — Free to Read
 
-Seven books, 250 chapters, all free — from core DBA craft to AI-native applications on SQL Server:
+Seven books, 270 chapters, 270 quizzes (1,350 questions), 180+ architecture diagrams — all free, from core DBA craft to AI-native applications on SQL Server:
 
 | # | Book | Chapters |
 |---|------|----------|
 | 1 | [The DBA Handbook](https://rajeshguntupalli59.github.io/dba-library/book/) | 40 |
-| 2 | [The AI-Powered DBA](https://rajeshguntupalli59.github.io/dba-library/book2/) | 20 |
-| 3 | [The Autonomous Database Engineer](https://rajeshguntupalli59.github.io/dba-library/book3/) | 40 |
-| 4 | [Vector Databases & AI](https://rajeshguntupalli59.github.io/dba-library/book4/) | 40 |
+| 2 | [The AI-Powered DBA](https://rajeshguntupalli59.github.io/dba-library/book2/) | 40 |
+| 3 | [The Self-Driving Database](https://rajeshguntupalli59.github.io/dba-library/book3/) | 40 |
+| 4 | [RAG on SQL Server](https://rajeshguntupalli59.github.io/dba-library/book4/) | 40 |
 | 5 | [The Cloud Database Engineer](https://rajeshguntupalli59.github.io/dba-library/book5/) | 40 |
 | 6 | [AI-Native Apps on SQL Server](https://rajeshguntupalli59.github.io/dba-library/book6/) | 40 |
-| 7 | [Database FinOps](https://rajeshguntupalli59.github.io/dba-library/book7/) | 30 |
+| 7 | [Stop Overpaying for SQL Server](https://rajeshguntupalli59.github.io/dba-library/book7/) | 30 |
 
 📖 Read them all with the flipbook reader at **[rajeshguntupalli59.github.io/dba-library](https://rajeshguntupalli59.github.io/dba-library/)**
 
